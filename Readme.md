@@ -17,6 +17,7 @@ This is free to use.
 ## License
 MIT License
 ## Contributing
+Camelia Benvidas - https://github.com/users/cameliabenavides10
 UTA Coding Bootcamp
 ## Tests
 none
